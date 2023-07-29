@@ -75,6 +75,25 @@ Now, the application should be running at http://localhost:3000.
 
 ## Screenshots
 
+## Screenshots
+
+Click on any screenshot to enlarge it.
+
+<table>
+  <tr>
+    <td><a href="https://ibb.co/P4kMLzF"><img src="https://i.ibb.co/1KcMgJ7/Screenshot-1.jpg" alt="Screenshot of application's interface" width="250"></a></td>
+    <td><a href="https://ibb.co/rFmWBqS"><img src="https://i.ibb.co/4K7QbCG/Screenshot-2.jpg" alt="Screenshot of virtual land details" width="250"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://ibb.co/7JXvpv3"><img src="https://i.ibb.co/Z6VdgdQ/Screenshot-3.jpg" alt="Screenshot of land purchasing process" width="250"></a></td>
+    <td><a href="https://ibb.co/WPsL7Cv"><img src="https://i.ibb.co/ZYN0v9z/Screenshot-4.jpg" alt="Screenshot of land selling process" width="250"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://ibb.co/zJWGFXT"><img src="https://i.ibb.co/rsK43xR/Screenshot-5.jpg" alt="Screenshot of land browsing interface" width="250"></a></td>
+    <td><a href="https://ibb.co/pntNWdB"><img src="https://i.ibb.co/DLxmGQH/Screenshot-6.jpg" alt="Screenshot of light/dark mode" width="250"></a></td>
+  </tr>
+</table>
+
 ## Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
