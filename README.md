@@ -35,9 +35,19 @@ Blockchain_Meta_DeCentraland is a project that allows users to buy, sell, and in
 
 ## Installation
 
-1. Clone the repository:
+Clone the repository:
 
 ```shell
 git clone https://github.com/BenMishael/Blockchain_Meta_DeCentraland.git
+```
 
+Navigate into the project directory:
 
+```shell
+cd Blockchain_Meta_DeCentraland
+```
+
+Install the dependencies:
+```shell
+npm install
+```
