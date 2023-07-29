@@ -2,7 +2,7 @@
 
 This project is a decentralized application (dApp) that creates a virtual land management system using blockchain technology.
 
-![Blockchain_Meta_DeCentraland Logo](https://i.ibb.co/JWTDnDp/ezgif-com-webp-to-png.png)
+![Blockchain_Meta_DeCentraland Logo](https://i.ibb.co/JWTDnDp/ezgif-com-webp-to-png.png height:250 width:250)
 
 ## Table of Contents
 
