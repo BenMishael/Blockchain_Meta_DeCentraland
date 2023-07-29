@@ -1,4 +1,4 @@
-# Blockchain_Meta_DeCentraland
+# Blockchain Meta DeCentraland
 
 This project is a decentralized application (dApp) that creates a virtual land management system using blockchain technology.
 
@@ -11,8 +11,9 @@ This project is a decentralized application (dApp) that creates a virtual land m
 3. [Prerequisites](#prerequisites)
 4. [Installation](#installation)
 5. [Usage](#usage)
-6. [Contributing](#contributing)
-7. [License](#license)
+6. [Screenshots](#screenshots)
+7. [Contributing](#contributing)
+8. [License](#license)
 
 ## Introduction
 
@@ -71,6 +72,8 @@ npm start
 ```
 
 Now, the application should be running at http://localhost:3000.
+
+## Screenshots
 
 ## Contributing
 
