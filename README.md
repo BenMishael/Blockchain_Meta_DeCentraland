@@ -51,3 +51,21 @@ Install the dependencies:
 ```shell
 npm install
 ```
+
+## Usage
+
+Start your local blockchain with Ganache.
+
+Compile and migrate the smart contracts:
+```shell
+truffle compile
+truffle migrate
+```
+
+Connect MetaMask to your local Ethereum blockchain.
+
+Start the development server:
+
+```shell
+npm start
+```
