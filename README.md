@@ -111,7 +111,7 @@ To contribute:
 Distributed under the MIT License. See LICENSE for more information.
 
 ## Contact
-Ben Mishael - ben.mishael@gmail.com
-Shimon Desta - desta101@gmail.com
+- Ben Mishael - ben.mishael@gmail.com
+- Shimon Desta - desta101@gmail.com
 
 Project Link: https://github.com/BenMishael/Blockchain_Meta_DeCentraland
