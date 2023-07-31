@@ -17,7 +17,7 @@ This project is a decentralized application (dApp) that creates a virtual land m
 
 ## Introduction
 
-Blockchain_Meta_DeCentraland is a project that allows users to buy, sell, and interact with virtual lands. The application is developed using a combination of technologies including Truffle, Ganache, and MetaMask for the blockchain ecosystem, and React.js and Styled-Components for the user interface.
+Blockchain Meta DeCentraland is a project that allows users to buy, sell, and interact with virtual lands. The application is developed using a combination of technologies including Truffle, Ganache, and MetaMask for the blockchain ecosystem, and React.js and Styled-Components for the user interface.
 
 ## Features
 
