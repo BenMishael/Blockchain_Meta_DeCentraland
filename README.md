@@ -81,18 +81,19 @@ Click on any screenshot to enlarge it.
 
 <table>
   <tr>
-    <td><a href="https://ibb.co/P4kMLzF"><img src="https://i.ibb.co/1KcMgJ7/Screenshot-1.jpg" alt="Screenshot of application's interface" width="250"></a></td>
-    <td><a href="https://ibb.co/rFmWBqS"><img src="https://i.ibb.co/4K7QbCG/Screenshot-2.jpg" alt="Screenshot of virtual land details" width="250"></a></td>
+    <td><a href="https://ibb.co/bKLJJYY"><img src="https://i.ibb.co/kS011zz/Screenshot-1.jpg" alt="Screenshot-1" width="250"></a></td>
+    <td><a href="https://ibb.co/3N9JD6z"><img src="https://i.ibb.co/wWFv9Gs/Screenshot-2.jpg" alt="Screenshot-2" width="250"></a></td>
   </tr>
   <tr>
-    <td><a href="https://ibb.co/7JXvpv3"><img src="https://i.ibb.co/Z6VdgdQ/Screenshot-3.jpg" alt="Screenshot of land purchasing process" width="250"></a></td>
-    <td><a href="https://ibb.co/WPsL7Cv"><img src="https://i.ibb.co/ZYN0v9z/Screenshot-4.jpg" alt="Screenshot of land selling process" width="250"></a></td>
+    <td><a href="https://ibb.co/8Mc2hDM"><img src="https://i.ibb.co/6YBbdRY/Screenshot-3.jpg" alt="Screenshot-3" width="250"></a></td>
+    <td><a href="https://ibb.co/7p16h7c"><img src="https://i.ibb.co/DMRSd3X/Screenshot-4.jpg" alt="Screenshot-4" width="250"></a></td>
   </tr>
   <tr>
-    <td><a href="https://ibb.co/zJWGFXT"><img src="https://i.ibb.co/rsK43xR/Screenshot-5.jpg" alt="Screenshot of land browsing interface" width="250"></a></td>
-    <td><a href="https://ibb.co/pntNWdB"><img src="https://i.ibb.co/DLxmGQH/Screenshot-6.jpg" alt="Screenshot of light/dark mode" width="250"></a></td>
+    <td><a href="https://ibb.co/hWRgsdj"><img src="https://i.ibb.co/tsMHB2t/Screenshot-5.jpg" alt="Screenshot-5" width="250"></a></td>
+    <td><a href="https://ibb.co/LRQQRG7"><img src="https://i.ibb.co/V9HH9K4/Screenshot-6.jpg" alt="Screenshot-6" width="250"></a></td>
   </tr>
 </table>
+
 
 ## Contributing
 
